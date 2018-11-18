@@ -3,7 +3,7 @@ package com.dalayach.Ask_Questions;
 import java.util.Scanner;
 
 
-public class AskQuestion
+public class Ask_Questions
 {
 
    private Scanner scan = new Scanner(System.in);
