@@ -23,7 +23,7 @@ public class Ask_Questions
    
    }
    
-   boolean question(String prompt)
+   public boolean question(String prompt)
    {
    
       boolean result = true;
